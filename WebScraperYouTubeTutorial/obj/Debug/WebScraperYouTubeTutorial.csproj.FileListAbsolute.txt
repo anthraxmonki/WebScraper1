@@ -1,0 +1,9 @@
+c:\users\anthraxmonki\documents\visual studio 2012\Projects\WebScraperYouTubeTutorial\WebScraperYouTubeTutorial\bin\Debug\WebScraperYouTubeTutorial.exe.config
+c:\users\anthraxmonki\documents\visual studio 2012\Projects\WebScraperYouTubeTutorial\WebScraperYouTubeTutorial\bin\Debug\WebScraperYouTubeTutorial.exe
+c:\users\anthraxmonki\documents\visual studio 2012\Projects\WebScraperYouTubeTutorial\WebScraperYouTubeTutorial\bin\Debug\WebScraperYouTubeTutorial.pdb
+c:\users\anthraxmonki\documents\visual studio 2012\Projects\WebScraperYouTubeTutorial\WebScraperYouTubeTutorial\obj\Debug\WebScraperYouTubeTutorial.csprojResolveAssemblyReference.cache
+c:\users\anthraxmonki\documents\visual studio 2012\Projects\WebScraperYouTubeTutorial\WebScraperYouTubeTutorial\obj\Debug\WebScraperYouTubeTutorial.Form1.resources
+c:\users\anthraxmonki\documents\visual studio 2012\Projects\WebScraperYouTubeTutorial\WebScraperYouTubeTutorial\obj\Debug\WebScraperYouTubeTutorial.Properties.Resources.resources
+c:\users\anthraxmonki\documents\visual studio 2012\Projects\WebScraperYouTubeTutorial\WebScraperYouTubeTutorial\obj\Debug\WebScraperYouTubeTutorial.csproj.GenerateResource.Cache
+c:\users\anthraxmonki\documents\visual studio 2012\Projects\WebScraperYouTubeTutorial\WebScraperYouTubeTutorial\obj\Debug\WebScraperYouTubeTutorial.exe
+c:\users\anthraxmonki\documents\visual studio 2012\Projects\WebScraperYouTubeTutorial\WebScraperYouTubeTutorial\obj\Debug\WebScraperYouTubeTutorial.pdb
